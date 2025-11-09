@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "Level UP - Mario's Minigame Madness",
+    "cover": "{COVER_URL}/LvL-Up-MMM.png",
+    "url": "{HTML_URL}/Level-UP-MMM/index.html",
+    "author": "Dominum Network",
+    "authorLink": "https://github.com/DominumNetwork"
+  },
+  {
+    "id": 1,
+    "name": "NSMB Mario vs Luigi Online",
+    "cover": "{COVER_URL}/NSMB-M-v-L.png",
+    "url": "{HTML_URL}/Mario-vs-Luigi/index.html",
+    "author": "Dominum Network",
+    "authorLink": "https://github.com/DominumNetwork"
+  }
+]
